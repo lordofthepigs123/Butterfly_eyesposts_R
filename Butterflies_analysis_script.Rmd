@@ -1,0 +1,92 @@
+---
+title: "Butterflies_analysis_script"
+output: html_document
+date: "2024-07-27"
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+#load packages
+library(tidyverse)
+library(readxl)
+library(ggplot2)
+library(dplyr)
+library(patchwork)
+library(GGally)
+library(ggpubr)
+library(ggBubbles)
+
+```
+
+load data
+
+```{r}
+#load data spreadsheet into dat_Original
+dat_Original <- read_csv("Butterflies_field_data_c.csv")
+names(dat_Original) 
+dim(dat_Original)
+str(dat_Original)
+  
+
+#<- c("tea_num:", "weight","tea_type")
+#dat_Original
+```
+
+
+```{r}
+#Finding initial mean and sd of R and G teabags in dat_Original
+dat_Original <- filter(dat_Original, Type!='D')
+dat_Original %>% 
+  group_by(Type) %>%
+  filter(Type!='D') %>%
+  summarise_at(vars(Days_survived), list(mean = mean, sd = sd)) -> dat_Mean
+
+#graph for original weight of teabags
+means1 <- ggplot(dat_Mean, aes(x = Type, y = mean)) + 
+  geom_errorbar(aes(ymin = mean-sd, ymax = mean+sd), width=.3) +
+  theme_classic() +
+  ylim(0, 2.5) +
+  labs(x = "Type of patern", y = "Days",title="T") + 
+  theme(plot.title = element_text(hjust = 0.5))
+
+#combining graphs into a figure
+means1
+ggsave("MeansGraph.png", width = 16, height = 8, units = "cm")
+
+```
+
+plots
+
+``` {r}
+
+box_plot <-  ggplot(dat_Original,aes(x = Type,
+             y = Days_survived,
+             fill = Type)) +
+  #geom_violin() +
+  geom_boxplot(varwidth = TRUE) +
+  theme_classic() +
+  scale_fill_manual(values = c("springgreen3", "#FF6070", "lightblue")) +
+  labs(x = "Type", y = "Days") + 
+  geom_vline(xintercept = seq(0.5, 16, by = 1), color="gray", size=.5, alpha=.5) + # set vertical lines between x groups
+  labs(title="T") +
+  theme(plot.title = element_text(hjust = 0.5))
+
+box_plot
+
+tns_plot <-  ggplot(dat_Original,aes(x = Transect,
+             y = Days_survived,
+             fill = Type)) +
+  #geom_violin() +
+  geom_boxplot(varwidth = TRUE) +
+  theme_classic() +
+  scale_fill_manual(values = c("springgreen3", "#FF6070", "lightblue")) +
+  labs(x = "Type", y = "Days") + 
+  geom_vline(xintercept = seq(0.5, 16, by = 1), color="gray", size=.5, alpha=.5) + # set vertical lines between x groups
+  labs(title="T") +
+  theme(plot.title = element_text(hjust = 0.5))
+tns_plot
+```
+

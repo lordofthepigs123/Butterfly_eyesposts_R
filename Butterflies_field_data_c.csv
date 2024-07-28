@@ -1,0 +1,401 @@
+Transect,Start_date,Location,Sample,Sample_ID,Type,Status_Day1,Status_Day2,Status_Day3,Status_Day4,Ants,No_pin,Comments,Days_survived
+T1,29/12/2023,Centenial Park,S01,T1S01,S,1,1,1,1,0,0,,4
+T1,29/12/2023,Centenial Park,S02,T1S02,C,1,1,1,1,0,0,,4
+T1,29/12/2023,Centenial Park,S03,T1S03,S,1,1,0,0,0,0,,2
+T1,29/12/2023,Centenial Park,S04,T1S04,C,1,1,1,1,0,0,,4
+T1,29/12/2023,Centenial Park,S05,T1S05,C,1,1,0,0,0,0,,2
+T1,29/12/2023,Centenial Park,S06,T1S06,S,0,0,0,0,0,0,,0
+T1,29/12/2023,Centenial Park,S07,T1S07,D,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S08,T1S08,C,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S09,T1S09,R,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S10,T1S10,R,0,0,0,0,0,0,,0
+T1,29/12/2023,Centenial Park,S11,T1S11,D,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S12,T1S12,S,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S13,T1S13,R,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S14,T1S14,D,1,1,0,0,0,0,,2
+T1,29/12/2023,Centenial Park,S15,T1S15,D,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S16,T1S16,R,1,1,0,0,1,0,,2
+T1,29/12/2023,Centenial Park,S17,T1S17,S,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S18,T1S18,D,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S19,T1S19,D,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S20,T1S20,S,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S21,T1S21,D,1,1,1,0,0,0,,3
+T1,29/12/2023,Centenial Park,S22,T1S22,R,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S23,T1S23,C,0,0,0,0,0,0,,0
+T1,29/12/2023,Centenial Park,S24,T1S24,S,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S25,T1S25,S,0,0,0,0,0,0,,0
+T1,29/12/2023,Centenial Park,S26,T1S26,C,1,1,0,0,0,0,,2
+T1,29/12/2023,Centenial Park,S27,T1S27,D,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S28,T1S28,C,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S29,T1S29,D,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S30,T1S30,D,1,1,0,0,0,0,,2
+T1,29/12/2023,Centenial Park,S31,T1S31,R,1,1,0,0,0,0,,2
+T1,29/12/2023,Centenial Park,S32,T1S32,R,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S33,T1S33,S,1,1,1,0,1,0,,3
+T1,29/12/2023,Centenial Park,S34,T1S34,R,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S35,T1S35,C,1,0,0,0,0,0,,1
+T1,29/12/2023,Centenial Park,S36,T1S36,R,1,1,1,0,0,0,,3
+T1,29/12/2023,Centenial Park,S37,T1S37,C,1,1,1,1,0,0,,4
+T1,29/12/2023,Centenial Park,S38,T1S38,S,1,0,0,0,1,0,,1
+T1,29/12/2023,Centenial Park,S39,T1S39,C,1,1,1,1,0,0,,4
+T1,29/12/2023,Centenial Park,S40,T1S40,R,1,1,1,1,0,1,gone,4
+T2,29/12/2023,Centenial Park,S01,T2S01,S,1,1,1,1,0,0,,4
+T2,29/12/2023,Centenial Park,S02,T2S02,R,1,1,0,0,0,0,,2
+T2,29/12/2023,Centenial Park,S03,T2S03,D,1,1,1,1,0,0,,4
+T2,29/12/2023,Centenial Park,S04,T2S04,C,1,1,1,1,0,0,,4
+T2,29/12/2023,Centenial Park,S05,T2S05,S,1,1,1,0,0,0,,3
+T2,29/12/2023,Centenial Park,S06,T2S06,D,1,1,0,0,1,0,,2
+T2,29/12/2023,Centenial Park,S07,T2S07,R,1,1,0,0,0,0,,2
+T2,29/12/2023,Centenial Park,S08,T2S08,D,1,0,0,0,0,0,,1
+T2,29/12/2023,Centenial Park,S09,T2S09,S,1,0,0,0,0,0,,1
+T2,29/12/2023,Centenial Park,S10,T2S10,D,1,0,0,0,0,0,,1
+T2,29/12/2023,Centenial Park,S11,T2S11,C,1,0,0,0,0,0,,1
+T2,29/12/2023,Centenial Park,S12,T2S12,C,1,0,0,0,0,0,,1
+T2,29/12/2023,Centenial Park,S13,T2S13,R,1,1,0,0,0,0,,2
+T2,29/12/2023,Centenial Park,S14,T2S14,S,1,1,1,1,0,0,,4
+T2,29/12/2023,Centenial Park,S15,T2S15,S,1,0,0,0,0,0,,1
+T2,29/12/2023,Centenial Park,S16,T2S16,R,1,1,1,1,0,0,,4
+T2,29/12/2023,Centenial Park,S17,T2S17,C,1,0,0,0,0,0,,1
+T2,29/12/2023,Centenial Park,S18,T2S18,C,1,0,0,0,1,0,,1
+T2,29/12/2023,Centenial Park,S19,T2S19,S,1,1,1,1,0,0,,4
+T2,29/12/2023,Centenial Park,S20,T2S20,R,1,1,1,1,0,0,,4
+T2,29/12/2023,Centenial Park,S21,T2S21,D,1,1,1,0,1,0,,3
+T2,29/12/2023,Centenial Park,S22,T2S22,R,1,0,0,0,0,0,,1
+T2,29/12/2023,Centenial Park,S23,T2S23,D,1,0,0,0,0,0,,1
+T2,29/12/2023,Centenial Park,S24,T2S24,D,1,0,0,0,0,0,,1
+T2,29/12/2023,Centenial Park,S25,T2S25,R,1,1,0,0,1,0,,2
+T2,29/12/2023,Centenial Park,S26,T2S26,C,1,1,0,0,1,0,,2
+T2,29/12/2023,Centenial Park,S27,T2S27,C,1,1,0,0,0,0,,2
+T2,29/12/2023,Centenial Park,S28,T2S28,S,1,0,0,0,0,0,,1
+T2,29/12/2023,Centenial Park,S29,T2S29,D,1,1,0,0,0,0,,2
+T2,29/12/2023,Centenial Park,S30,T2S30,R,1,0,0,0,0,0,,1
+T2,29/12/2023,Centenial Park,S31,T2S31,S,1,0,0,0,0,0,,1
+T2,29/12/2023,Centenial Park,S32,T2S32,C,1,1,1,1,0,0,,4
+T2,29/12/2023,Centenial Park,S33,T2S33,R,1,1,0,0,0,0,,2
+T2,29/12/2023,Centenial Park,S34,T2S34,C,0,0,0,0,0,0,,0
+T2,29/12/2023,Centenial Park,S35,T2S35,S,1,1,1,0,0,0,,3
+T2,29/12/2023,Centenial Park,S36,T2S36,C,1,0,0,0,0,0,,1
+T2,29/12/2023,Centenial Park,S37,T2S37,R,1,0,0,0,0,0,,1
+T2,29/12/2023,Centenial Park,S38,T2S38,D,1,1,1,1,0,0,,4
+T2,29/12/2023,Centenial Park,S39,T2S39,D,1,1,1,0,0,0,,3
+T2,29/12/2023,Centenial Park,S40,T2S40,S,1,0,0,0,0,0,done,1
+T3,31/12/2023,Centenial Park,S01,T3S01,D,0,0,0,0,0,0,,0
+T3,31/12/2023,Centenial Park,S02,T3S02,C,1,1,0,0,0,0,,2
+T3,31/12/2023,Centenial Park,S03,T3S03,C,1,1,0,0,0,0,,2
+T3,31/12/2023,Centenial Park,S04,T3S04,D,1,1,0,0,0,0,,2
+T3,31/12/2023,Centenial Park,S05,T3S05,R,1,0,0,0,1,0,,1
+T3,31/12/2023,Centenial Park,S06,T3S06,D,1,1,1,1,0,0,,4
+T3,31/12/2023,Centenial Park,S07,T3S07,C,1,1,1,1,0,0,,4
+T3,31/12/2023,Centenial Park,S08,T3S08,R,1,1,1,0,0,0,,3
+T3,31/12/2023,Centenial Park,S09,T3S09,C,0,0,0,0,0,0,,0
+T3,31/12/2023,Centenial Park,S10,T3S10,C,1,1,1,1,0,0,,4
+T3,31/12/2023,Centenial Park,S11,T3S11,D,1,0,0,0,0,0,,1
+T3,31/12/2023,Centenial Park,S12,T3S12,R,1,1,0,0,0,0,,2
+T3,31/12/2023,Centenial Park,S13,T3S13,R,1,0,0,0,1,0,,1
+T3,31/12/2023,Centenial Park,S14,T3S14,C,1,1,1,1,0,0,,4
+T3,31/12/2023,Centenial Park,S15,T3S15,D,1,0,0,0,0,0,,1
+T3,31/12/2023,Centenial Park,S16,T3S16,R,1,0,0,0,0,0,,1
+T3,31/12/2023,Centenial Park,S17,T3S17,S,1,0,0,0,0,0,,1
+T3,31/12/2023,Centenial Park,S18,T3S18,R,1,0,0,0,0,0,,1
+T3,31/12/2023,Centenial Park,S19,T3S19,C,1,0,0,0,0,0,,1
+T3,31/12/2023,Centenial Park,S20,T3S20,D,1,0,0,0,0,0,,1
+T3,31/12/2023,Centenial Park,S21,T3S21,R,1,0,0,0,0,0,,1
+T3,31/12/2023,Centenial Park,S22,T3S22,C,1,1,0,0,0,0,,2
+T3,31/12/2023,Centenial Park,S23,T3S23,S,1,0,0,0,0,0,,1
+T3,31/12/2023,Centenial Park,S24,T3S24,S,1,1,0,0,1,1,,2
+T3,31/12/2023,Centenial Park,S25,T3S25,S,1,0,0,0,0,0,,1
+T3,31/12/2023,Centenial Park,S26,T3S26,S,1,1,1,0,0,0,,3
+T3,31/12/2023,Centenial Park,S27,T3S27,C,1,1,1,1,0,0,,4
+T3,31/12/2023,Centenial Park,S28,T3S28,R,1,1,0,0,0,0,,2
+T3,31/12/2023,Centenial Park,S29,T3S29,D,0,0,0,0,0,0,,0
+T3,31/12/2023,Centenial Park,S30,T3S30,R,0,0,0,0,0,0,,0
+T3,31/12/2023,Centenial Park,S31,T3S31,C,1,1,1,1,0,0,,4
+T3,31/12/2023,Centenial Park,S32,T3S32,D,1,0,0,0,0,0,,1
+T3,31/12/2023,Centenial Park,S33,T3S33,D,1,1,0,0,0,0,,2
+T3,31/12/2023,Centenial Park,S34,T3S34,S,1,1,1,0,0,0,,3
+T3,31/12/2023,Centenial Park,S35,T3S35,S,1,0,0,0,0,0,,1
+T3,31/12/2023,Centenial Park,S36,T3S36,R,1,1,1,0,0,0,,3
+T3,31/12/2023,Centenial Park,S37,T3S37,S,1,1,1,0,1,0,,3
+T3,31/12/2023,Centenial Park,S38,T3S38,D,1,0,0,0,0,0,,1
+T3,31/12/2023,Centenial Park,S39,T3S39,S,1,0,0,0,0,0,,1
+T3,31/12/2023,Centenial Park,S40,T3S40,S,1,1,0,0,0,0,done,2
+T4,02/01/2024,Centenial Park,S01,T4S01,S,1,1,1,0,0,0,,3
+T4,02/01/2024,Centenial Park,S02,T4S02,R,1,1,1,1,0,0,,4
+T4,02/01/2024,Centenial Park,S03,T4S03,S,1,0,0,0,0,0,,1
+T4,02/01/2024,Centenial Park,S04,T4S04,D,1,0,0,0,1,0,,1
+T4,02/01/2024,Centenial Park,S05,T4S05,D,0,0,0,0,0,0,,0
+T4,02/01/2024,Centenial Park,S06,T4S06,R,1,1,0,0,0,0,,2
+T4,02/01/2024,Centenial Park,S07,T4S07,S,1,1,0,0,0,0,,2
+T4,02/01/2024,Centenial Park,S08,T4S08,C,1,1,1,1,0,0,,4
+T4,02/01/2024,Centenial Park,S09,T4S09,C,1,0,0,0,0,0,,1
+T4,02/01/2024,Centenial Park,S10,T4S10,R,1,0,0,0,0,0,,1
+T4,02/01/2024,Centenial Park,S11,T4S11,S,0,0,0,0,0,0,,0
+T4,02/01/2024,Centenial Park,S12,T4S12,C,1,0,0,0,0,0,,1
+T4,02/01/2024,Centenial Park,S13,T4S13,R,1,0,0,0,0,0,,1
+T4,02/01/2024,Centenial Park,S14,T4S14,C,1,0,0,0,0,0,,1
+T4,02/01/2024,Centenial Park,S15,T4S15,C,1,1,1,1,0,0,,4
+T4,02/01/2024,Centenial Park,S16,T4S16,S,1,0,0,0,1,0,,1
+T4,02/01/2024,Centenial Park,S17,T4S17,D,1,1,0,0,1,0,,2
+T4,02/01/2024,Centenial Park,S18,T4S18,R,1,1,0,0,0,0,,2
+T4,02/01/2024,Centenial Park,S19,T4S19,D,1,1,0,0,0,0,,2
+T4,02/01/2024,Centenial Park,S20,T4S20,D,1,0,0,0,0,0,,1
+T4,02/01/2024,Centenial Park,S21,T4S21,C,1,1,0,0,0,0,,2
+T4,02/01/2024,Centenial Park,S22,T4S22,D,1,1,0,0,0,0,,2
+T4,02/01/2024,Centenial Park,S23,T4S23,C,1,1,0,0,1,0,,2
+T4,02/01/2024,Centenial Park,S24,T4S24,S,1,0,0,0,0,0,,1
+T4,02/01/2024,Centenial Park,S25,T4S25,R,1,0,0,0,0,0,,1
+T4,02/01/2024,Centenial Park,S26,T4S26,D,1,0,0,0,1,0,,1
+T4,02/01/2024,Centenial Park,S27,T4S27,S,1,0,0,0,1,0,,1
+T4,02/01/2024,Centenial Park,S28,T4S28,S,1,0,0,0,0,0,,1
+T4,02/01/2024,Centenial Park,S29,T4S29,R,1,1,0,0,1,0,,2
+T4,02/01/2024,Centenial Park,S30,T4S30,C,1,1,1,1,0,0,,4
+T4,02/01/2024,Centenial Park,S31,T4S31,S,1,0,0,0,0,0,,1
+T4,02/01/2024,Centenial Park,S32,T4S32,R,1,1,1,1,0,0,,4
+T4,02/01/2024,Centenial Park,S33,T4S33,R,1,0,0,0,0,0,,1
+T4,02/01/2024,Centenial Park,S34,T4S34,D,1,0,0,0,0,0,,1
+T4,02/01/2024,Centenial Park,S35,T4S35,S,1,0,0,0,0,0,,1
+T4,02/01/2024,Centenial Park,S36,T4S36,D,1,1,1,1,0,0,,4
+T4,02/01/2024,Centenial Park,S37,T4S37,R,0,0,0,0,0,0,,0
+T4,02/01/2024,Centenial Park,S38,T4S38,D,1,1,1,1,0,0,,4
+T4,02/01/2024,Centenial Park,S39,T4S39,C,1,0,0,0,0,0,,1
+T4,02/01/2024,Centenial Park,S40,T4S40,C,1,1,1,1,0,0,done,4
+T5,03/01/2024,Centenial Park,S01,T5S01,S,1,1,0,0,0,0,,2
+T5,03/01/2024,Centenial Park,S02,T5S02,D,0,0,0,0,0,0,,0
+T5,03/01/2024,Centenial Park,S03,T5S03,S,0,0,0,0,0,0,,0
+T5,03/01/2024,Centenial Park,S04,T5S04,C,1,1,0,0,0,0,,2
+T5,03/01/2024,Centenial Park,S05,T5S05,C,1,0,0,0,0,0,,1
+T5,03/01/2024,Centenial Park,S06,T5S06,R,1,1,1,1,0,0,Helm Oak,4
+T5,03/01/2024,Centenial Park,S07,T5S07,C,1,0,0,0,0,0,,1
+T5,03/01/2024,Centenial Park,S08,T5S08,D,1,1,1,1,0,0,,4
+T5,03/01/2024,Centenial Park,S09,T5S09,C,1,1,1,0,0,1,,3
+T5,03/01/2024,Centenial Park,S10,T5S10,C,1,0,0,0,0,0,,1
+T5,03/01/2024,Centenial Park,S11,T5S11,D,1,1,0,0,0,0,,2
+T5,03/01/2024,Centenial Park,S12,T5S12,C,1,1,0,0,0,0,,2
+T5,03/01/2024,Centenial Park,S13,T5S13,S,1,0,0,0,0,0,,1
+T5,03/01/2024,Centenial Park,S14,T5S14,S,1,1,0,0,0,0,,2
+T5,03/01/2024,Centenial Park,S15,T5S15,D,1,0,0,0,0,0,,1
+T5,03/01/2024,Centenial Park,S16,T5S16,S,1,0,0,0,0,0,,1
+T5,03/01/2024,Centenial Park,S17,T5S17,R,1,1,1,0,0,0,,3
+T5,03/01/2024,Centenial Park,S18,T5S18,R,1,0,0,0,0,0,,1
+T5,03/01/2024,Centenial Park,S19,T5S19,R,1,0,0,0,0,0,,1
+T5,03/01/2024,Centenial Park,S20,T5S20,C,1,0,0,0,0,0,,1
+T5,03/01/2024,Centenial Park,S21,T5S21,C,1,1,0,0,0,0,,2
+T5,03/01/2024,Centenial Park,S22,T5S22,S,1,0,0,0,0,0,,1
+T5,03/01/2024,Centenial Park,S23,T5S23,R,1,0,0,0,0,0,,1
+T5,03/01/2024,Centenial Park,S24,T5S24,D,1,0,0,0,0,0,,1
+T5,03/01/2024,Centenial Park,S25,T5S25,D,0,0,0,0,0,0,,0
+T5,03/01/2024,Centenial Park,S26,T5S26,C,1,1,1,0,0,0,,3
+T5,03/01/2024,Centenial Park,S27,T5S27,D,1,1,1,1,0,0,,4
+T5,03/01/2024,Centenial Park,S28,T5S28,R,1,0,0,0,0,0,,1
+T5,03/01/2024,Centenial Park,S29,T5S29,S,1,1,1,1,0,0,,4
+T5,03/01/2024,Centenial Park,S30,T5S30,S,0,0,0,0,0,0,,0
+T5,03/01/2024,Centenial Park,S31,T5S31,D,1,0,0,0,0,0,,1
+T5,03/01/2024,Centenial Park,S32,T5S32,R,1,1,1,1,0,0,Weeping Lilly,4
+T5,03/01/2024,Centenial Park,S33,T5S33,S,1,1,1,1,0,0,,4
+T5,03/01/2024,Centenial Park,S34,T5S34,D,0,0,0,0,0,0,,0
+T5,03/01/2024,Centenial Park,S35,T5S35,R,1,0,0,0,1,0,,1
+T5,03/01/2024,Centenial Park,S36,T5S36,C,1,1,1,1,0,0,,4
+T5,03/01/2024,Centenial Park,S37,T5S37,R,1,0,0,0,1,0,,1
+T5,03/01/2024,Centenial Park,S38,T5S38,S,1,1,0,0,0,0,,2
+T5,03/01/2024,Centenial Park,S39,T5S39,D,1,1,1,1,0,0,,4
+T5,03/01/2024,Centenial Park,S40,T5S40,R,1,0,0,0,0,0,done,1
+T6,04/01/2024,Centenial Park,S01,T6S01,D,1,1,1,1,0,0,,4
+T6,04/01/2024,Centenial Park,S02,T6S02,D,1,0,0,0,0,0,,1
+T6,04/01/2024,Centenial Park,S03,T6S03,S,1,1,1,1,0,0,,4
+T6,04/01/2024,Centenial Park,S04,T6S04,R,1,1,1,1,0,0,,4
+T6,04/01/2024,Centenial Park,S05,T6S05,R,1,1,1,1,0,0,,4
+T6,04/01/2024,Centenial Park,S06,T6S06,R,1,0,0,0,0,0,,1
+T6,04/01/2024,Centenial Park,S07,T6S07,S,1,1,1,0,0,0,,3
+T6,04/01/2024,Centenial Park,S08,T6S08,C,1,1,1,1,0,0,,4
+T6,04/01/2024,Centenial Park,S09,T6S09,S,1,0,0,0,0,0,,1
+T6,04/01/2024,Centenial Park,S10,T6S10,C,1,1,1,0,0,0,,3
+T6,04/01/2024,Centenial Park,S11,T6S11,R,1,0,0,0,0,0,Port Jackson Fig,1
+T6,04/01/2024,Centenial Park,S12,T6S12,R,1,0,0,0,0,0,,1
+T6,04/01/2024,Centenial Park,S13,T6S13,R,1,1,1,1,0,0,,4
+T6,04/01/2024,Centenial Park,S14,T6S14,S,1,0,0,0,0,0,,1
+T6,04/01/2024,Centenial Park,S15,T6S15,C,1,0,0,0,0,0,,1
+T6,04/01/2024,Centenial Park,S16,T6S16,R,1,0,0,0,1,0,,1
+T6,04/01/2024,Centenial Park,S17,T6S17,C,0,0,0,0,0,0,,0
+T6,04/01/2024,Centenial Park,S18,T6S18,R,1,0,0,0,0,0,,1
+T6,04/01/2024,Centenial Park,S19,T6S19,R,1,1,1,1,0,0,,4
+T6,04/01/2024,Centenial Park,S20,T6S20,D,0,0,0,0,0,0,,0
+T6,04/01/2024,Centenial Park,S21,T6S21,C,1,1,0,0,0,0,,2
+T6,04/01/2024,Centenial Park,S22,T6S22,D,1,1,1,1,0,0,,4
+T6,04/01/2024,Centenial Park,S23,T6S23,D,0,0,0,0,0,0,,0
+T6,04/01/2024,Centenial Park,S24,T6S24,D,1,1,1,0,0,0,,3
+T6,04/01/2024,Centenial Park,S25,T6S25,D,1,1,1,1,1,0,,4
+T6,04/01/2024,Centenial Park,S26,T6S26,S,1,0,0,0,0,0,,1
+T6,04/01/2024,Centenial Park,S27,T6S27,S,1,0,0,0,0,0,,1
+T6,04/01/2024,Centenial Park,S28,T6S28,C,1,1,1,1,0,0,,4
+T6,04/01/2024,Centenial Park,S29,T6S29,C,1,0,0,0,0,0,,1
+T6,04/01/2024,Centenial Park,S30,T6S30,S,0,0,0,0,0,1,,0
+T6,04/01/2024,Centenial Park,S31,T6S31,S,1,1,0,0,0,1,,2
+T6,04/01/2024,Centenial Park,S32,T6S32,R,1,1,0,0,0,0,,2
+T6,04/01/2024,Centenial Park,S33,T6S33,C,1,0,0,0,0,0,,1
+T6,04/01/2024,Centenial Park,S34,T6S34,S,1,1,1,1,0,0,,4
+T6,04/01/2024,Centenial Park,S35,T6S35,D,1,1,1,1,0,0,,4
+T6,04/01/2024,Centenial Park,S36,T6S36,C,1,0,0,0,0,0,,1
+T6,04/01/2024,Centenial Park,S37,T6S37,S,1,1,1,1,0,0,,4
+T6,04/01/2024,Centenial Park,S38,T6S38,D,1,0,0,0,0,0,,1
+T6,04/01/2024,Centenial Park,S39,T6S39,C,0,0,0,0,0,0,,0
+T6,04/01/2024,Centenial Park,S40,T6S40,D,1,1,1,1,0,0,done,4
+T7,09/01/2024,Clarence Town,S01,T7S01,S,1,1,0,0,0,0,,2
+T7,09/01/2024,Clarence Town,S02,T7S02,R,1,0,0,0,0,0,,1
+T7,09/01/2024,Clarence Town,S03,T7S03,D,1,0,0,0,0,0,,1
+T7,09/01/2024,Clarence Town,S04,T7S04,D,1,0,0,0,0,0,,1
+T7,09/01/2024,Clarence Town,S05,T7S05,D,1,0,0,0,0,0,,1
+T7,09/01/2024,Clarence Town,S06,T7S06,D,1,1,1,1,0,0,,4
+T7,09/01/2024,Clarence Town,S07,T7S07,R,1,1,0,0,0,0,,2
+T7,09/01/2024,Clarence Town,S08,T7S08,D,1,0,0,0,1,0,,1
+T7,09/01/2024,Clarence Town,S09,T7S09,R,1,1,1,0,0,0,,3
+T7,09/01/2024,Clarence Town,S10,T7S10,C,1,0,0,0,0,0,Swamp Mahogany,1
+T7,09/01/2024,Clarence Town,S11,T7S11,S,1,1,0,0,0,0,Native Fragipani,2
+T7,09/01/2024,Clarence Town,S12,T7S12,C,1,1,1,0,0,0,Woolly Ramibutes,3
+T7,09/01/2024,Clarence Town,S13,T7S13,S,1,1,0,0,0,0,,2
+T7,09/01/2024,Clarence Town,S14,T7S14,S,1,1,0,0,0,0,,2
+T7,09/01/2024,Clarence Town,S15,T7S15,D,1,0,0,0,0,0,,1
+T7,09/01/2024,Clarence Town,S16,T7S16,C,1,1,1,1,0,0,,4
+T7,09/01/2024,Clarence Town,S17,T7S17,S,1,1,0,0,0,1,Holm Oak,2
+T7,09/01/2024,Clarence Town,S18,T7S18,S,1,1,0,0,0,0,,2
+T7,09/01/2024,Clarence Town,S19,T7S19,S,1,0,0,0,0,0,Cheese Tree,1
+T7,09/01/2024,Clarence Town,S20,T7S20,C,1,0,0,0,0,0,,1
+T7,09/01/2024,Clarence Town,S21,T7S21,C,1,1,1,1,0,0,,4
+T7,09/01/2024,Clarence Town,S22,T7S22,R,1,0,0,0,0,0,,1
+T7,09/01/2024,Clarence Town,S23,T7S23,S,1,1,1,1,0,0,,4
+T7,09/01/2024,Clarence Town,S24,T7S24,R,1,1,1,0,0,0,,3
+T7,09/01/2024,Clarence Town,S25,T7S25,S,1,0,0,0,0,0,,1
+T7,09/01/2024,Clarence Town,S26,T7S26,C,1,0,0,0,0,0,,1
+T7,09/01/2024,Clarence Town,S27,T7S27,R,1,1,1,0,0,0,,3
+T7,09/01/2024,Clarence Town,S28,T7S28,D,1,1,1,1,0,0,,4
+T7,09/01/2024,Clarence Town,S29,T7S29,S,1,0,0,0,0,0,,1
+T7,09/01/2024,Clarence Town,S30,T7S30,C,1,1,1,1,0,0,,4
+T7,09/01/2024,Clarence Town,S31,T7S31,C,1,0,0,0,0,0,,1
+T7,09/01/2024,Clarence Town,S32,T7S32,C,1,1,0,0,0,0,,2
+T7,09/01/2024,Clarence Town,S33,T7S33,R,1,1,1,1,0,0,,4
+T7,09/01/2024,Clarence Town,S34,T7S34,D,1,1,1,1,1,0,,4
+T7,09/01/2024,Clarence Town,S35,T7S35,R,1,1,0,0,0,0,,2
+T7,09/01/2024,Clarence Town,S36,T7S36,D,1,0,0,0,0,0,,1
+T7,09/01/2024,Clarence Town,S37,T7S37,R,1,1,1,1,0,0,,4
+T7,09/01/2024,Clarence Town,S38,T7S38,R,1,1,0,0,0,0,Paperback,2
+T7,09/01/2024,Clarence Town,S39,T7S39,D,1,0,0,0,0,0,,1
+T7,09/01/2024,Clarence Town,S40,T7S40,C,1,0,0,0,0,0,done,1
+T8,09/01/2024,Clarence Town,S01,T8S01,R,1,1,1,1,0,0,,4
+T8,09/01/2024,Clarence Town,S02,T8S02,C,1,0,0,0,0,0,,1
+T8,09/01/2024,Clarence Town,S03,T8S03,C,1,1,1,1,1,0,,4
+T8,09/01/2024,Clarence Town,S04,T8S04,D,1,0,0,0,1,0,,1
+T8,09/01/2024,Clarence Town,S05,T8S05,S,1,1,1,1,0,0,,4
+T8,09/01/2024,Clarence Town,S06,T8S06,C,0,0,0,0,0,0,,0
+T8,09/01/2024,Clarence Town,S07,T8S07,R,0,0,0,0,0,0,,0
+T8,09/01/2024,Clarence Town,S08,T8S08,R,0,0,0,0,0,0,,0
+T8,09/01/2024,Clarence Town,S09,T8S09,C,1,0,0,0,0,0,,1
+T8,09/01/2024,Clarence Town,S10,T8S10,D,1,1,0,0,0,0,,2
+T8,09/01/2024,Clarence Town,S11,T8S11,S,1,1,0,0,1,0,,2
+T8,09/01/2024,Clarence Town,S12,T8S12,S,1,1,0,0,0,0,,2
+T8,09/01/2024,Clarence Town,S13,T8S13,C,1,0,0,0,1,0,,1
+T8,09/01/2024,Clarence Town,S14,T8S14,S,1,0,0,0,1,0,,1
+T8,09/01/2024,Clarence Town,S15,T8S15,C,1,0,0,0,1,0,,1
+T8,09/01/2024,Clarence Town,S16,T8S16,D,1,1,1,0,0,0,,3
+T8,09/01/2024,Clarence Town,S17,T8S17,R,1,0,0,0,1,0,,1
+T8,09/01/2024,Clarence Town,S18,T8S18,C,1,0,0,0,0,0,,1
+T8,09/01/2024,Clarence Town,S19,T8S19,D,1,1,1,1,0,0,,4
+T8,09/01/2024,Clarence Town,S20,T8S20,R,1,0,0,0,1,0,,1
+T8,09/01/2024,Clarence Town,S21,T8S21,S,1,0,0,0,1,0,,1
+T8,09/01/2024,Clarence Town,S22,T8S22,R,1,0,0,0,0,0,,1
+T8,09/01/2024,Clarence Town,S23,T8S23,D,1,0,0,0,0,0,,1
+T8,09/01/2024,Clarence Town,S24,T8S24,C,1,0,0,0,0,0,,1
+T8,09/01/2024,Clarence Town,S25,T8S25,D,1,0,0,0,1,0,,1
+T8,09/01/2024,Clarence Town,S26,T8S26,D,1,0,0,0,1,0,,1
+T8,09/01/2024,Clarence Town,S27,T8S27,R,1,0,0,0,1,0,,1
+T8,09/01/2024,Clarence Town,S28,T8S28,C,0,0,0,0,0,0,,0
+T8,09/01/2024,Clarence Town,S29,T8S29,D,1,0,0,0,0,0,,1
+T8,09/01/2024,Clarence Town,S30,T8S30,R,1,1,0,0,1,0,,2
+T8,09/01/2024,Clarence Town,S31,T8S31,S,1,1,1,1,0,0,,4
+T8,09/01/2024,Clarence Town,S32,T8S32,D,1,0,0,0,0,0,,1
+T8,09/01/2024,Clarence Town,S33,T8S33,D,1,0,0,0,0,0,,1
+T8,09/01/2024,Clarence Town,S34,T8S34,C,1,1,0,0,0,0,,2
+T8,09/01/2024,Clarence Town,S35,T8S35,S,1,1,0,0,0,0,,2
+T8,09/01/2024,Clarence Town,S36,T8S36,S,0,0,0,0,0,0,,0
+T8,09/01/2024,Clarence Town,S37,T8S37,R,1,0,0,0,1,0,,1
+T8,09/01/2024,Clarence Town,S38,T8S38,R,1,0,0,0,1,0,,1
+T8,09/01/2024,Clarence Town,S39,T8S39,S,1,1,0,0,1,0,,2
+T8,09/01/2024,Clarence Town,S40,T8S40,S,1,0,0,0,1,0,done,1
+T9,16/01/2024,Kensington,S01,T9S01,S,1,1,1,1,0,0,,4
+T9,16/01/2024,Kensington,S02,T9S02,S,1,0,0,0,0,0,,1
+T9,16/01/2024,Kensington,S03,T9S03,D,1,1,0,0,0,0,,2
+T9,16/01/2024,Kensington,S04,T9S04,S,1,0,0,0,0,0,,1
+T9,16/01/2024,Kensington,S05,T9S05,R,1,1,0,0,0,0,,2
+T9,16/01/2024,Kensington,S06,T9S06,C,1,1,0,0,0,0,,2
+T9,16/01/2024,Kensington,S07,T9S07,D,1,0,0,0,0,0,,1
+T9,16/01/2024,Kensington,S08,T9S08,R,1,1,1,1,0,0,,4
+T9,16/01/2024,Kensington,S09,T9S09,S,1,1,0,0,0,0,,2
+T9,16/01/2024,Kensington,S10,T9S10,S,0,0,0,0,0,0,,0
+T9,16/01/2024,Kensington,S11,T9S11,S,1,1,1,1,0,0,,4
+T9,16/01/2024,Kensington,S12,T9S12,C,0,0,0,0,0,0,,0
+T9,16/01/2024,Kensington,S13,T9S13,D,1,0,0,0,0,0,,1
+T9,16/01/2024,Kensington,S14,T9S14,R,1,0,0,0,0,0,,1
+T9,16/01/2024,Kensington,S15,T9S15,C,1,1,0,0,0,0,,2
+T9,16/01/2024,Kensington,S16,T9S16,D,1,1,1,1,0,0,,4
+T9,16/01/2024,Kensington,S17,T9S17,R,1,1,1,1,0,0,,4
+T9,16/01/2024,Kensington,S18,T9S18,S,1,1,1,1,0,0,,4
+T9,16/01/2024,Kensington,S19,T9S19,D,1,1,1,1,0,0,,4
+T9,16/01/2024,Kensington,S20,T9S20,C,1,1,0,0,0,0,,2
+T9,16/01/2024,Kensington,S21,T9S21,R,1,1,0,0,0,0,fig,2
+T9,16/01/2024,Kensington,S22,T9S22,R,1,0,0,0,0,0,,1
+T9,16/01/2024,Kensington,S23,T9S23,S,1,0,0,0,1,0,,1
+T9,16/01/2024,Kensington,S24,T9S24,S,1,1,1,1,0,0,,4
+T9,16/01/2024,Kensington,S25,T9S25,C,1,1,1,0,0,0,,3
+T9,16/01/2024,Kensington,S26,T9S26,C,1,0,0,0,0,0,,1
+T9,16/01/2024,Kensington,S27,T9S27,R,1,1,1,0,0,0,,3
+T9,16/01/2024,Kensington,S28,T9S28,R,1,1,1,0,0,0,,3
+T9,16/01/2024,Kensington,S29,T9S29,R,1,0,0,0,0,0,,1
+T9,16/01/2024,Kensington,S30,T9S30,R,1,0,0,0,0,0,,1
+T9,16/01/2024,Kensington,S31,T9S31,S,1,0,0,0,0,0,,1
+T9,16/01/2024,Kensington,S32,T9S32,D,1,1,1,1,0,0,,4
+T9,16/01/2024,Kensington,S33,T9S33,D,1,1,1,1,0,0,,4
+T9,16/01/2024,Kensington,S34,T9S34,C,1,1,1,1,0,0,,4
+T9,16/01/2024,Kensington,S35,T9S35,C,1,1,1,1,0,0,,4
+T9,16/01/2024,Kensington,S36,T9S36,D,1,1,0,0,0,0,,2
+T9,16/01/2024,Kensington,S37,T9S37,D,1,0,0,0,0,0,,1
+T9,16/01/2024,Kensington,S38,T9S38,C,1,0,0,0,0,0,,1
+T9,16/01/2024,Kensington,S39,T9S39,C,1,1,1,1,0,0,,4
+T9,16/01/2024,Kensington,S40,T9S40,D,1,0,0,0,0,0,,1
+T10,16/01/2024,Kensington,S01,T10S01,C,1,0,0,0,0,0,,1
+T10,16/01/2024,Kensington,S02,T10S02,C,1,1,0,0,0,0,,2
+T10,16/01/2024,Kensington,S03,T10S03,C,1,0,0,0,1,0,eaten by woodlice,1
+T10,16/01/2024,Kensington,S04,T10S04,R,1,1,1,1,0,0,,4
+T10,16/01/2024,Kensington,S05,T10S05,S,1,1,1,0,0,0,,3
+T10,16/01/2024,Kensington,S06,T10S06,D,1,0,0,0,0,0,,1
+T10,16/01/2024,Kensington,S07,T10S07,R,1,1,1,0,0,0,,3
+T10,16/01/2024,Kensington,S08,T10S08,C,1,0,0,0,0,0,Paperback,1
+T10,16/01/2024,Kensington,S09,T10S09,R,0,0,0,0,0,0,,0
+T10,16/01/2024,Kensington,S10,T10S10,R,1,1,1,1,0,0,Fig,4
+T10,16/01/2024,Kensington,S11,T10S11,R,1,1,1,1,0,0,Fig,4
+T10,16/01/2024,Kensington,S12,T10S12,D,1,0,0,0,0,0,,1
+T10,16/01/2024,Kensington,S13,T10S13,R,0,0,0,0,0,0,,0
+T10,16/01/2024,Kensington,S14,T10S14,D,1,1,1,0,0,0,,3
+T10,16/01/2024,Kensington,S15,T10S15,C,0,0,0,0,0,0,Fig,0
+T10,16/01/2024,Kensington,S16,T10S16,D,1,1,1,1,0,0,,4
+T10,16/01/2024,Kensington,S17,T10S17,D,1,1,1,1,0,0,Fig,4
+T10,16/01/2024,Kensington,S18,T10S18,R,1,0,0,0,0,0,,1
+T10,16/01/2024,Kensington,S19,T10S19,R,1,1,1,1,0,0,,4
+T10,16/01/2024,Kensington,S20,T10S20,S,1,0,0,0,0,0,Fig,1
+T10,16/01/2024,Kensington,S21,T10S21,C,0,0,0,0,0,0,,0
+T10,16/01/2024,Kensington,S22,T10S22,S,1,0,0,0,0,0,,1
+T10,16/01/2024,Kensington,S23,T10S23,S,1,0,0,0,0,0,,1
+T10,16/01/2024,Kensington,S24,T10S24,C,1,0,0,0,0,0,,1
+T10,16/01/2024,Kensington,S25,T10S25,C,1,0,0,0,0,0,Weeping Willow,1
+T10,16/01/2024,Kensington,S26,T10S26,D,1,0,0,0,0,0,,1
+T10,16/01/2024,Kensington,S27,T10S27,D,1,1,1,1,0,0,,4
+T10,16/01/2024,Kensington,S28,T10S28,S,1,1,1,1,0,0,,4
+T10,16/01/2024,Kensington,S29,T10S29,D,1,0,0,0,0,0,eucalyptus,1
+T10,16/01/2024,Kensington,S30,T10S30,S,1,1,1,1,0,0,,4
+T10,16/01/2024,Kensington,S31,T10S31,S,1,0,0,0,0,0,,1
+T10,16/01/2024,Kensington,S32,T10S32,S,1,0,0,0,0,0,,1
+T10,16/01/2024,Kensington,S33,T10S33,S,1,0,0,0,0,1,,1
+T10,16/01/2024,Kensington,S34,T10S34,D,1,0,0,0,0,0,,1
+T10,16/01/2024,Kensington,S35,T10S35,S,1,0,0,0,0,0,,1
+T10,16/01/2024,Kensington,S36,T10S36,R,1,1,0,0,0,0,,2
+T10,16/01/2024,Kensington,S37,T10S37,D,1,1,1,1,0,0,,4
+T10,16/01/2024,Kensington,S38,T10S38,C,0,0,0,0,0,0,,0
+T10,16/01/2024,Kensington,S39,T10S39,C,1,0,0,0,0,0,,1
+T10,16/01/2024,Kensington,S40,T10S40,R,1,0,0,0,0,0,,1
